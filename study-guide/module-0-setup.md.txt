@@ -1,0 +1,7 @@
+# APOSTILA VIVA - MÓDULO 1: Variáveis, Tipos e Entrada/Saída (I/O)
+
+## 1. Saída de Dados (*Output*)
+A função `print()` é usada para exibir informações no terminal (*Terminal Output*).
+Exemplo:
+```python
+print("Hello, World!")
